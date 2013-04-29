@@ -5,6 +5,12 @@ A CFML client for the Harvest API implemented as a single CFC.
 
 You initialize it with your subdomain and a username and password (Harvest recommends creating a separate account for use with the API).
 
+Requirements
+-------
+
+Tested with Adobe ColdFusion 10 on OS X, but it should work on CF9 and other CFML engines.  If you do test it on another version please let me know.
+
+And, of course, a Harvest account.
 
 Usage
 -------
